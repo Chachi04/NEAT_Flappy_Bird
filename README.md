@@ -4,9 +4,10 @@ AI learns to play flappy bird! Using NEAT (NeuoEvolution of Augmenting Topologie
 
 # Try it yourself
 ---
-'''
+
+``` bash
 git clone https://github.com/Chachi04/NEAT_Flappy_Bird.git
 cd NEAT_Flappy_Bird
 pip install -r requirements.txt
 python main.py
-'''
+```
